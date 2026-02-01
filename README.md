@@ -84,4 +84,4 @@ These artifacts are **SAFe-aligned** in that they support:
 - This is a **fictional project** created for portfolio and learning purposes.
 - Organizational names and details are anonymized.
 - Artifacts are designed to be lightweight, practical, and PMO-internship appropriate.
-- 
+ 
